@@ -1,24 +1,24 @@
-<h1>🐱‍🚀 Sabir Khan</h1>  
+<h1>🐱‍🚀 Mishaal Muzammil</h1>  
 
 
-**`Digital Craftsman (Developer/Programmer/Creator)`**  
+**`Software Engineer (Developer/Programmer/Creator)`**  
 <br />
 <p align="left">
-I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, DevOps, and open source. Beyond coding, I share insights on platforms like <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a>, and I'm a proud member of <a href="https://twitter.com/superteamdao" target="_blank">@SuperteamDAO</a>, a community shaping the web3 future. I thrive on challenges and am confident in my ability to drive tech innovation.
+I'm a 22-year-old full-stack developer, based in Sri Lanka. With over 1.5 years of hands-on industry experience, I've delved into web, mobile, desktop application, IoT projects. Beyond coding, I share insights on platforms like <a href="https://www.linkedin.com/in/mishaal-muzammil-0508b8162/" target="_blank">LinkedIn</a>, and I'm a content creator of <a href="https://twitter.com/superteamdao" target="_blank">@CodeCraks</a>, a YouTube channel which produces tutorials on creating various desktop applications using Windows Forms and WPF. I thrive on challenges and I am confident in my ability to drive tech innovation.
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/simplysabir?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
+  <a href="https://github.com/mishaal-muzammil?tab=repositories&sort=stargazers#gh-light-mode-only">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mishaal-muzammil?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
   
-  <a href="https://github.com/simplysabir?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=c691e9&style=for-the-badge&labelColor=655489&logo=star#gh-dark-mode-only"/></a>
+  <a href="https://github.com/mishaal-muzammil?tab=repositories&sort=stargazers#gh-dark-mode-only">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mishaal-muzammil?color=c691e9&style=for-the-badge&labelColor=655489&logo=star#gh-dark-mode-only"/></a>
   
-  <a href="https://github.com/simplysabir?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
+  <a href="https://github.com/mishaal-muzammil?tab=followers#gh-light-mode-only">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mishaal-muzammil?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
     
-  <a href="https://github.com/simplysabir?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=f9e692&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
+  <a href="https://github.com/mishaal-muzammil?tab=followers#gh-dark-mode-only">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mishaal-muzammil?color=f9e692&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
 ---
@@ -55,27 +55,16 @@ I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=rust"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
-
 </p>
 <br />
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
+<p>
+  <a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
   <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
 </p>
 
 <br />
 
-<p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
-</p> 
-<br>
-<br />
-
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
-<br />
 
 <p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
 <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
