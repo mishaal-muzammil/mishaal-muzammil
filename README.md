@@ -4,7 +4,7 @@
 **`Software Engineer (Developer/Programmer/Creator)`**  
 <br />
 <p align="left">
-I'm a 22-year-old full-stack developer, based in Sri Lanka. With over 1.5 years of hands-on industry experience, I've delved into web, mobile, desktop application, IoT projects. Beyond coding, I share insights on platforms like <a href="https://www.linkedin.com/in/mishaal-muzammil-0508b8162/" target="_blank">LinkedIn</a>, and I'm a content creator of <a href="https://www.youtube.com/@codecraks" target="_blank">@CodeCraks</a>, a YouTube channel which produces tutorials on creating various desktop applications using Windows Forms and WPF. I thrive on challenges and I am confident in my ability to drive tech innovation.
+I'm a 22-year-old full-stack developer, based in Sri Lanka. With over 1.5 years of hands-on industry experience, I've delved into web, mobile, desktop application, IoT projects. Beyond coding, I share insights on platforms like <a href="https://www.linkedin.com/in/mishaal-muzammil-0508b8162/" target="_blank">LinkedIn</a>, and I'm a creator of <a href="https://www.youtube.com/@codecraks" target="_blank">@CodeCraks</a>, a YouTube channel which produces tutorials on creating various desktop applications using Windows Forms and WPF. I thrive on challenges and I am confident in my ability to drive tech innovation.
 </p>
 
 <p align="left"> 
