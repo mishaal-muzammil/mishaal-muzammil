@@ -1,10 +1,10 @@
-<h1>🐱‍🚀 Mishaal Muzammil</h1>  
+<h1>🔮🚀 Mishaal Muzammil</h1>  
 
 
-**`Software Engineer (Developer/Programmer/Creator)`**  
+**`Software Developer`**  
 <br />
 <p align="left">
-I'm a 22-year-old full-stack developer, based in Sri Lanka. With over 1.5 years of hands-on industry experience, I've delved into web, mobile, desktop application, IoT projects. Beyond coding, I share insights on platforms like <a href="https://www.linkedin.com/in/mishaal-muzammil-0508b8162/" target="_blank">LinkedIn</a>, and I'm a creator of <a href="https://www.youtube.com/@codecraks" target="_blank">@CodeCraks</a>, a YouTube channel which produces tutorials on creating various desktop applications using Windows Forms and WPF. I thrive on challenges and I am confident in my ability to drive tech innovation.
+I'm a 22-year-old software developer, based in Sri Lanka. With over 1 year of hands-on industry experience, I've delved into web, mobile, desktop application, IoT projects. Beyond coding, I share insights on platforms like <a href="https://www.linkedin.com/in/mishaal-muzammil-0508b8162/" target="_blank">LinkedIn</a>, and I'm a creator of <a href="https://www.youtube.com/@codecraks" target="_blank">@CodeCraks</a>, a YouTube channel which produces tutorials on creating various desktop applications using Windows Forms and WPF. I thrive on challenges and I am confident in my ability to drive tech innovation.
 </p>
 
 <p align="left"> 
@@ -29,11 +29,6 @@ I'm a 22-year-old full-stack developer, based in Sri Lanka. With over 1.5 years 
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bootstrap"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=c"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=cpp"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=express"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nest"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=figma"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=git"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=github"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=java"  />
@@ -41,27 +36,15 @@ I'm a 22-year-old full-stack developer, based in Sri Lanka. With over 1.5 years 
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=linux"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nextjs"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=react"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=solidity"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=tailwind"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bash"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=firebase"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=jest"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=md"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nodejs"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=postman"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=prisma"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redux"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=rust"  />
+.<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redux"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 </p>
 <br />
-
-<p>
-  <a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-mishaal-muzammil.vercel.app/api/top-langs/?username=mishaal-muzammil&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-  <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-mishaal-muzammil.vercel.app/api/top-langs/?username=mishaal-muzammil&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
-</p>
 
 
 ---
